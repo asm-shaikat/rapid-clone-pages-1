@@ -1,0 +1,48 @@
+.slide-img-bg{
+    background-color: rgb(241, 236, 237);
+}
+.btn-warning{
+    text-decoration: none;
+}
+#carouselExampleCaptions{
+    margin-top: 100px;
+}
+.carousel-item{
+    padding: 40px 20px;
+}
+.watch-cat{
+    background-color: rgb(255, 230, 0);
+    border-radius: 13px;
+    padding-left: 50px;
+}
+.shoes-cat{
+    background-color: rgb(248, 106, 130);
+    border-radius: 13px;
+    padding-left: 50px;
+}
+.bag-cat{
+    background-color: rgb(0, 137, 250);
+    border-radius: 13px;
+    padding-left: 50px;
+}
+.bag-cat img{
+    padding-left: 100px;
+}
+.shoes-cat img{
+    padding-left: 100px;
+}
+.watch-cat img{
+    padding-left: 100px;
+}
+
+.row{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.card{
+    box-shadow: 5px 5px 10px lightgray;
+    
+}
+.shoes{
+    margin-bottom: 100px;
+}
